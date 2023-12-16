@@ -1,0 +1,55 @@
+.pizza-page {
+    max-width: 1200px;
+    margin: 20px;
+    border: solid black 1px;
+    padding: 20px;
+    .pizza-section {
+        margin-bottom: 10px;
+        .pizza-list {
+            margin-left: 25px;
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+            .pizza-img {
+                display: flex;
+                flex-direction: column;
+                width: 200px;
+                border: solid black 1px;
+                padding: 20px 15px;
+                img {
+                    align-self: center;
+                    width: 200px;
+                    height: 200px;
+                    margin-bottom: 10px;
+                }
+                >h3, p {
+                    margin-top: 5px;
+                    margin-bottom: 5px;
+                }
+            }
+        }
+        .size-list {
+            margin-left: 25px;
+            display: flex;
+            flex-direction: row;
+            gap: 50px;
+            .size-item {
+                display: flex;
+                flex-direction: column;
+            }
+        }
+        .toppings-list {
+            margin-left: 25px;
+            column-gap: 20px;
+            .topping-item {
+                width: 20%;
+            }
+        }
+        .total-price {
+            margin-left: 25px;
+            font-weight: bold;
+            font-size: 56px;
+            color: red;
+        }
+    }
+}

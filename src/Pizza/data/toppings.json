@@ -1,0 +1,80 @@
+[
+    {
+        "id": "tp1",
+        "name": "Avocado",
+        "price": 1,
+        "used_on": ["pz1"]
+    },
+    {
+        "id": "tp2",
+        "name": "Broccoli",
+        "price": 1,
+        "used_on": ["pz1","pz2","pz3"]
+    },
+    {
+        "id": "tp3",
+        "name": "Onions",
+        "price": 1,
+        "used_on": ["pz1","pz2","pz3"]
+    },
+    {
+        "id": "tp4",
+        "name": "Zucchini",
+        "price": 1,
+        "used_on": ["pz1","pz2","pz3"]
+    },
+    {
+        "id": "tp5",
+        "name": "Broccoli",
+        "price": 1,
+        "used_on": ["pz1","pz2","pz3"]
+    },
+    {
+        "id": "tp6",
+        "name": "Lobster",
+        "price": 2,
+        "used_on": ["pz2"]
+    },
+    {
+        "id": "tp7",
+        "name": "Oyster",
+        "price": 2,
+        "used_on": ["pz2"]
+    },
+    {
+        "id": "tp8",
+        "name": "Salmon",
+        "price": 2,
+        "used_on": ["pz2"]
+    },
+    {
+        "id": "tp9",
+        "name": "Tuna",
+        "price": 2,
+        "used_on": ["pz1","pz3"]
+    },
+    {
+        "id": "tp10",
+        "name": "Bacon",
+        "price": 3,
+        "used_on": ["pz2","pz3"]
+    },
+    {
+        "id": "tp11",
+        "name": "Duck",
+        "price": 3,
+        "used_on": ["pz3"]
+    },
+    {
+        "id": "tp12",
+        "name": "Ham",
+        "price": 3,
+        "used_on": ["pz1","pz2","pz3"]
+    },
+    {
+        "id": "tp13",
+        "name": "Sausage",
+        "price": 3,
+        "used_on": ["pz3"]
+    }
+]

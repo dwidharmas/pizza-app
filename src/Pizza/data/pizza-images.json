@@ -1,0 +1,20 @@
+[
+    {
+        "id": "pz1",
+        "title": "Pizza1",
+        "price": 8,
+        "img": "/pizza-images/def-pizza.jpeg"
+    },
+    {
+        "id": "pz2",
+        "title": "Pizza2",
+        "price": 10,
+        "img": "/pizza-images/veg-pizza.jpeg"
+    },
+    {
+        "id": "pz3",
+        "title": "Pizza3",
+        "price": 12,
+        "img": "/pizza-images/sausage-pizza.jpeg"
+    }
+]
